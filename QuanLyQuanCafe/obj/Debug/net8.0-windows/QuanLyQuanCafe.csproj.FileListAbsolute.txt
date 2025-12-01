@@ -1,0 +1,413 @@
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAdmin.resources
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fLogin.resources
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fTableManager.resources
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+D:\Compressed\QuanLyQuanCafe-20250314T151107Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAdmin.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fLogin.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fTableManager.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\drive-download-20250314T153910Z-001\QuanLyQuanCafe\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAdmin.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fLogin.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fTableManager.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\BAI TAP LON\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fBillPaid.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAdmin.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fBillPaid.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fLogin.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fTableManager.resources
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Hanoi University of Science and Technology\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAdmin.resources
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fBillPaid.resources
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fLogin.resources
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fTableManager.resources
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+C:\Users\khuon\Downloads\ĐỒ ÁN 1-20250613T151227Z-1-001\ĐỒ ÁN 1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.frmBestSellingFoods.resources
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAdmin.resources
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fBillPaid.resources
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fLogin.resources
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.frmBestSellingFoods.resources
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fTableManager.resources
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\khuon\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.exe
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.deps.json
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fAdmin.resources
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fBillPaid.resources
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fLogin.resources
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.frmBestSellingFoods.resources
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.fTableManager.resources
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQu.8A743E1D.Up2Date
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\refint\QuanLyQuanCafe.dll
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.pdb
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\Admin\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net8.0-windows\ref\QuanLyQuanCafe.dll
